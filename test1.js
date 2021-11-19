@@ -92,6 +92,7 @@ function result(sessions) {
         time: session1.time
     }
     return dataHasil
+
 }
 
 console.log(result(sessions));
